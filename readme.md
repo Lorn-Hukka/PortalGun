@@ -46,12 +46,12 @@ Congratulations you have come across one of the many horribly written scripts fo
 
 Maybe, but I'm not promising anything. Maybe someday there will be more information about Rick's portal gun, and I'll feel like updating my version.
 
-## The wall of glory
+## The wall of glory:
 
 * ~~Me~~
 * [The creator of this interactive animation editor for seven-segment displays.](https://jasonacox.github.io/TM1637TinyDisplay/examples/7-segment-animator.html)
 * Creators / Writers of Rick & Morthy series 
 * [Creators / Authors of the series fandom page](https://rickandmorty.fandom.com/wiki/Rickipedia)
-* [Twórcy tego projektu na którym się wzorowałem.](https://www.thingiverse.com/thing:2935246)
+* [Creators of this project I was inspired by.](https://www.thingiverse.com/thing:2935246)
 
 ###### P.S; I know that it deviates from the orginal.
