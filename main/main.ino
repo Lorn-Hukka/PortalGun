@@ -252,13 +252,13 @@ void loop() {
       UNIVERSE_INDEX++;
     }
 
-    if (command & COMMAND_UP) {
+    if (command & COMMAND_DOWN) {
       // Serial.println("COMMAND UP");
       UNIVERSE_INDEX = CURR_UNIVERSE_INDEX;
       UNLOCK_CODE = 0;
     }
 
-    if (command & COMMAND_DOWN) {
+    if (command & COMMAND_UP) {
       // Serial.println("COMMAND DOWN");
       UNIVERSE_INDEX = PREV_UNIVERSE_INDEX;
       UNLOCK_CODE--;
