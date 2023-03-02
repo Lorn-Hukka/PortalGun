@@ -46,6 +46,12 @@ Congratulations you have come across one of the many horribly written scripts fo
 
 Maybe, but I'm not promising anything. Maybe someday there will be more information about Rick's portal gun, and I'll feel like updating my version.
 
+
+## Models
+[The models](https://www.thingiverse.com/thing:2935246) that inspired this project were redesigned by [BartShoot](https://github.com/BartShoot). <3 Thank you! 
+
+
+
 ## The wall of glory:
 
 * ~~Me~~
@@ -53,5 +59,6 @@ Maybe, but I'm not promising anything. Maybe someday there will be more informat
 * Creators / Writers of Rick & Morthy series 
 * [Creators / Authors of the series fandom page](https://rickandmorty.fandom.com/wiki/Rickipedia)
 * [Creators of this project I was inspired by.](https://www.thingiverse.com/thing:2935246)
+* [A person who really knows how to model](https://github.com/BartShoot)
 
 ###### P.S; I know that it deviates from the orginal.
